@@ -1,4 +1,4 @@
-# Clash for Windows
+发多少# Clash for Windows
 
 A Windows/macOS/Linux GUI based on Clash and Electron.
 
